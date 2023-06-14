@@ -1,4 +1,4 @@
-[![MasterHead](https://builtin.com/sites/www.builtin.com/files/styles/og/public/full-stack-developer.jpg)]
+![MasterHead](https://builtin.com/sites/www.builtin.com/files/styles/og/public/full-stack-developer.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Rasika</h1>
