@@ -19,6 +19,7 @@
 - 💬 Ask me about **react, redux, js**
 
 - 📫 How to reach me **rasika23g@gmail.com**
+- #Portfolio  **rasikaG23.github.io**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1CxtYsBWzqSZWTSklz-ezYLX6hheYPAQo/view?usp=sharing](https://drive.google.com/file/d/1CxtYsBWzqSZWTSklz-ezYLX6hheYPAQo/view?usp=sharing)
 
